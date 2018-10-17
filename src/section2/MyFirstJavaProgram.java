@@ -8,8 +8,20 @@ public class MyFirstJavaProgram {
 	public static void main(String[] args) {
 		
 		// START HERE
+	//type name
+	int size = 10;	
+	size = 10 * 20;	
 	
-		
-		
+	System.out.println(size);
+	
+	
+	
+	
+	System.out.println("Hello");
+	
+	
 	}
+
+
+
 }
